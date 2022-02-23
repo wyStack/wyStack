@@ -19,3 +19,6 @@ https://docs.wystack.com/
 Report issues using the Github Issue Tracker:
 
 https://github.com/wyStack/wyStack/issues
+
+---
+©️ wyStack, 2022, A Cloud-based Low-Code Platform for Professional Developers.
