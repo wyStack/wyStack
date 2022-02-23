@@ -16,7 +16,7 @@ Visit our documentation website:
 https://docs.wystack.com/
 
 ## Reporting issues
-Report issues using the Github Issue Tracker:
+Report issues using the GitHub Issue Tracker:
 
 https://github.com/wyStack/wyStack/issues
 
