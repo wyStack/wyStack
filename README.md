@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to wyStack! 🤖
 
-<!--
-**wyStack/wyStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wyStack is the first hybrid Low-Code platform for professional software developers.  
+Modeling where possible, programming where necessary.  
+Our software robot will do the rest.
 
-Here are some ideas to get you started:
+## Getting started
+Join our **Early Bird Program 🐦** by leaving us a message using the wyStack website or our email address.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 https://wystack.com  
+📧 info@wystack.com
+
+## Documentation
+Visit our documentation website:
+
+https://docs.wystack.com/
+
+## Reporting issues
+Report issues using the Github Issue Tracker:
+
+https://github.com/wyStack/wyStack/issues
